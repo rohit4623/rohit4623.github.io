@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.ad43337a.chunk.css",
-    "main.js": "/build/static/js/main.d5032061.chunk.js",
-    "main.js.map": "/build/static/js/main.d5032061.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.d449de72.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.d449de72.js.map",
-    "static/js/2.556a1b20.chunk.js": "/build/static/js/2.556a1b20.chunk.js",
-    "static/js/2.556a1b20.chunk.js.map": "/build/static/js/2.556a1b20.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.0e1c0e6efbfd81a9cd8a3c4231cc060f.js": "/build/precache-manifest.0e1c0e6efbfd81a9cd8a3c4231cc060f.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/main.ad43337a.chunk.css.map": "/build/static/css/main.ad43337a.chunk.css.map",
-    "static/js/2.556a1b20.chunk.js.LICENSE.txt": "/build/static/js/2.556a1b20.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/build/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/features-split-image-01.png": "/build/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/build/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/build/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.svg": "/build/static/media/logo.2810a88b.svg"
+    "main.css": "/rohit4623.github.io/static/css/main.ec3ae0f8.chunk.css",
+    "main.js": "/rohit4623.github.io/static/js/main.a5600689.chunk.js",
+    "main.js.map": "/rohit4623.github.io/static/js/main.a5600689.chunk.js.map",
+    "runtime-main.js": "/rohit4623.github.io/static/js/runtime-main.b3157239.js",
+    "runtime-main.js.map": "/rohit4623.github.io/static/js/runtime-main.b3157239.js.map",
+    "static/js/2.556a1b20.chunk.js": "/rohit4623.github.io/static/js/2.556a1b20.chunk.js",
+    "static/js/2.556a1b20.chunk.js.map": "/rohit4623.github.io/static/js/2.556a1b20.chunk.js.map",
+    "index.html": "/rohit4623.github.io/index.html",
+    "precache-manifest.9808d0116b5b2990624b2b5dce12c918.js": "/rohit4623.github.io/precache-manifest.9808d0116b5b2990624b2b5dce12c918.js",
+    "service-worker.js": "/rohit4623.github.io/service-worker.js",
+    "static/css/main.ec3ae0f8.chunk.css.map": "/rohit4623.github.io/static/css/main.ec3ae0f8.chunk.css.map",
+    "static/js/2.556a1b20.chunk.js.LICENSE.txt": "/rohit4623.github.io/static/js/2.556a1b20.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/rohit4623.github.io/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/features-split-image-01.png": "/rohit4623.github.io/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/rohit4623.github.io/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/rohit4623.github.io/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/rohit4623.github.io/static/media/logo.2810a88b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d449de72.js",
+    "static/js/runtime-main.b3157239.js",
     "static/js/2.556a1b20.chunk.js",
-    "static/css/main.ad43337a.chunk.css",
-    "static/js/main.d5032061.chunk.js"
+    "static/css/main.ec3ae0f8.chunk.css",
+    "static/js/main.a5600689.chunk.js"
   ]
 }
